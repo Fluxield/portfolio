@@ -1,5 +1,5 @@
 .footer-container {
-    border-top: 1px solid #7EB77F;
+    border-top: 1px solid #ff69b4;
     margin: 50px auto;
     padding-top: 50px;
 }
@@ -65,7 +65,7 @@
 
 .footer-button:hover {
     text-decoration: underline;
-    color: #F08CAE;
+    color: #ff69b4;
 }
 
 .footer-button:not(:last-child) {
