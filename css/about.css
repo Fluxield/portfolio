@@ -40,7 +40,7 @@ h4, h5 {
     text-align: center;
     justify-content: space-between;
     border-radius: 10px 10px 0 0;
-    background-color: #7EB77F;
+    background-color: #ff69b4;
 }
 
 #terminal-title {
@@ -61,7 +61,7 @@ h4, h5 {
     padding: 20px;
     border-radius: 0 0 10px 10px;
     text-align: left;
-    border: 1px solid #7EB77F;
+    border: 1px solid #ff69b4;
 }
 
 .terminal-window div, .terminal-window div p {
@@ -79,7 +79,7 @@ h4, h5 {
 
 .input::before {
     content: ">\A0";
-    color: #7EB77F;
+    color: #ff69b4;
     font-weight: 700;
 }
 
@@ -111,7 +111,7 @@ h4, h5 {
 .skill {
     border-radius: 12px;
     margin: 10px;
-    border: 2px solid #7EB77F;
+    border: 2px solid #ff69b4;
     padding: 8px 10px;
     display: flex;
     align-items: center;
@@ -141,7 +141,7 @@ h4, h5 {
 }
 
 .social-media-item:hover {
-    color: #F08CAE;
+    color: #ff69b4;
 }
 
 .social-media-item i {
