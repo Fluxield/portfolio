@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: #1D263B;
+    background-color: #000000;
 }
 
 h1, h2, h3 {
@@ -39,7 +39,7 @@ a, span {
 }
 
 .green {
-    color: #7EB77F;
+    color: #ff69b4;
 }
 
 .bold {
@@ -50,7 +50,7 @@ a, span {
     font-family: inherit;
     font-size: inherit;
     font-weight: inherit;
-    color: #F08CAE;
+    color: #00f5f5;
 }
 
 ul {
@@ -62,7 +62,7 @@ ul {
 }
 
 .social-link a i:hover {
-    color: #F08CAE;
+    color: #ff69b4;
 }
 
 .main-container {
@@ -82,14 +82,14 @@ section {
 }
 
 section .hyperlink {
-    color: #F08CAE;
+    color: #ff69b4;
     font-weight: 700;
     text-decoration: underline;
     transition: all 0.2s ease;
 }
 
 section .hyperlink:hover {
-    color: #7EB77F;
+    color: #ff69b4;
 }
 
 .section-description {
