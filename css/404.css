@@ -11,7 +11,7 @@ body {
 #notfound {
   position: relative;
   height: 100vh;
-  background: #030005;
+  background: #000000;
 }
 
 #notfound .notfound {
@@ -50,7 +50,7 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: -12px;
-  color: #030005;
+  color: #000000;
   text-transform: uppercase;
   text-shadow: -1px -1px 0px #8400ff, 1px 1px 0px #ff005a;
   letter-spacing: -20px;
